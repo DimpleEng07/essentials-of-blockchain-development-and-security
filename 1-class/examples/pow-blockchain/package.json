@@ -9,8 +9,9 @@
   "license": "MIT",
   "dependencies": {
     "crypto": "^1.0.1",
+    "elliptic": "^6.5.5",
     "express": "^4.17.1",
     "request": "^2.88.2",
-    "uuid": "^3.2.1"
+    "uuid": "^3.4.0"
   }
 }
